@@ -14,7 +14,6 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
