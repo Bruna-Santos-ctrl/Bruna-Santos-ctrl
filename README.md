@@ -1,16 +1,21 @@
-## Hi there 👋
+<h4 data-importer="text" align="center">݁ ˖Ი𐑼⋆<br>Olá sejam bem vindos <br>ao <br>meu github!<br>─────୨ৎ─────</h4>
 
-<!--
-**Bruna-Santos-ctrl/Bruna-Santos-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="image" align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+
